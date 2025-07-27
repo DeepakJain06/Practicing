@@ -3,7 +3,7 @@ using namespace std;
 
 class B{
     public: 
-    int add(){
+    int add(){ 
         return a + b;
     }
 
